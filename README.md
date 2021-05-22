@@ -1,6 +1,6 @@
 ### Hello world!
 
-[![some github stats](https://github-readme-stats.vercel.app/api?username=satukoskinen&theme=dark&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![some github stats](https://github-readme-stats.vercel.app/api?username=satukoskinen&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **satukoskinen/satukoskinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
