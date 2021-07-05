@@ -1,5 +1,13 @@
 ### Hello world! Moi maailma!
 
+I am Satu, an aspiring programmer currently studying at [Hive Helsinki](https://hive.fi), a 42 coding school in Helsinki.
+
+In addition to a bunch of Douglas Adams style jokes, the school is based on project-based peer-to-peer learning. Those fancy words simply mean that the curriculum is organized around projects that provide a practical way to introduce new topics. No books and no teachers means that we rely on each other and our own information-finding skills (read: Stack Overflow). Projects are validated via a series of evaluations done by our peers. The programming language of choice for the majority of the projects is C, aiming to give a comprehensive sense of the more low-level features of programming that are abstracted away in higher-level languages.
+
+Currently, I'm working on
+- Corewar, the last project on the algorithms' branch of the curriculum. Around that, I'm now studying how programming languages are implemented, how compilers and interpreters work, and how to implement a simple lexer + parser and a VM to execute bytecode.
+- Tensorflow, understanding neural networks and OCR/HTR (optical character recognition / handwritten text recognition). Therefore, learning the basics of Python, the Tensorflow library and the very basic steps that neural network models take to produce models that recognize handwritten text and table/form structures.
+
 [![some github stats](https://github-readme-stats.vercel.app/api?username=satukoskinen&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
