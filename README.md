@@ -6,7 +6,6 @@ In addition to a bunch of Douglas Adams style jokes, the school is based on proj
 
 Currently, I'm working on
 - [Corewar](https://www.github.com/juliuskoskela/corewar), the last project on the algorithms branch of the Hive curriculum. Around that, I'm now studying how programming languages are implemented, how compilers and interpreters work, and how to implement a simple lexer + parser and a VM to execute bytecode.
-- Tensorflow, understanding neural networks and OCR/HTR (optical character recognition / handwritten text recognition). Therefore, learning the basics of Python, the Tensorflow library and the very basic steps that neural network models take to produce models that recognize handwritten text and table/form structures.
 
 Projects I have recently worked on include
 - [Lem-in](https://www.github.com/satukoskinen/lem_in), an algorithms project of the Hive curriculum. Topics included graph theory, finding a maximum flow in a network, and optimising the flow based on the project's objectives (which was to move a given number of ants through a network so that no ants collide in the process, ie. finding an optimal set of vertex disjoint paths between a source and a target vertex in a graph)
