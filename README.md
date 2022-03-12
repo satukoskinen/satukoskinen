@@ -8,7 +8,7 @@ At Eficode, I work in the Managed Services' Application Management team.
 
 Currently, I'm interested in
 - cybersecurity, going through the [Cyber Security Base MOOC](https://cybersecuritybase.mooc.fi/) created by F-Secure and University of Helsinki
-- self-hosted open source alternatives to different kinds of services from secret management to messaging platforms 
+- finding self-hosted open source alternatives to different kinds of services from secret management to messaging platforms 
 
 Projects I have recently worked on include
 - [Corewar](https://www.github.com/juliuskoskela/corewar), the last project on the algorithms branch of the Hive curriculum. Around that, I got to study how programming languages are implemented, how compilers and interpreters work, and how to implement a simple lexer + parser and a VM to execute bytecode.
